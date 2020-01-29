@@ -1,0 +1,6 @@
+package.json
+package-lock.json
+*.yaml
+*.yml
+*.md
+dist/
